@@ -1,10 +1,9 @@
 .bodyBackground 
 {
     background-image:url(natal.gif);
-    background-size:100%;
     background-position-x: 1px;
     background-position-y: -60px;
-  
+    background-size: auto;
 }
 #myCanvas
 {
